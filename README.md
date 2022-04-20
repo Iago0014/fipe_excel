@@ -33,3 +33,6 @@ cuida da FIPE. (Requisito funcional - 001)
 https://parallelum.com.br/fipe/api/v2/cars/brands
 
 https://parallelum.com.br/fipe/api/v2/{vehicleType}/{fipeCode}/years/{yearId}
+
+![ucUmL](https://user-images.githubusercontent.com/100955133/164120433-f008626a-83bc-4ca0-bfdd-fa21119832d9.png)
+
