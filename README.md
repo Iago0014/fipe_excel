@@ -39,13 +39,13 @@ https://parallelum.com.br/fipe/api/v2/{vehicleType}/{fipeCode}/years/{yearId}
 ![umlUC](https://user-images.githubusercontent.com/100955133/164120587-68ff8ad6-cafe-457e-9e85-9fdd6b5d5dd4.jpg)
 
 <h3>Caso de uso: Gerar excel com Fipe dos veículos.</h3>
-<h3>Visão geral</h3>
+<h4>Visão geral</h4>
 O usuário gera a planilha excel.
 
 <h3>Caso de uso: Consultar tabela fipe.</h3>
-<h3>Visão geral</h3>
+<h4>Visão geral</h4>
 O usuário faz uma consulta, essa mesma gera os seguintes dados codigo das marcas e o nome das marcas. Os dados são escritos na planilha excel criada anteriomente.
 
 <h3>Caso de uso: Enviar por email</h3>
-<h3>Visão geral</h3>
+<h4>Visão geral</h4>
 Depois de pronta a planilha ela deverá ser enviada por email que o usuário escolher.
