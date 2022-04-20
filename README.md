@@ -40,7 +40,7 @@ https://parallelum.com.br/fipe/api/v2/{vehicleType}/{fipeCode}/years/{yearId}
 
 <h3>Caso de uso: Gerar excel com Fipe dos veículos.</h3>
 <h4>Visão geral</h4>
-O usuário gera a planilha excel.
+O usuário gera a planilha excel. 
 
 <h3>Caso de uso: Consultar tabela fipe.</h3>
 <h4>Visão geral</h4>
