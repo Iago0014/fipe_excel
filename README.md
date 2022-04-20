@@ -34,5 +34,8 @@ https://parallelum.com.br/fipe/api/v2/cars/brands
 
 https://parallelum.com.br/fipe/api/v2/{vehicleType}/{fipeCode}/years/{yearId}
 
-![ucUmL](https://user-images.githubusercontent.com/100955133/164120433-f008626a-83bc-4ca0-bfdd-fa21119832d9.png)
+<h2>Caso de Uso</h2>
+
+![umlUC](https://user-images.githubusercontent.com/100955133/164120587-68ff8ad6-cafe-457e-9e85-9fdd6b5d5dd4.jpg)
+
 
