@@ -25,7 +25,7 @@ RFN - 002: O sistema de ter acesso a internet.
 RFN - 003: O usuario de ter no seu computador o Python na versão 3.7 ou superior.
 
 
-#regras de negocio
+<h2>#regras de negocio</h2>
 
 RN - 001: Cosulta a tabela FIPE. Deve ser feita pelo codigo oficial do veiculo. Todo o veiculo possui um codigo gerenciado pela organização que 
 cuida da FIPE. (Requisito funcional - 001)
