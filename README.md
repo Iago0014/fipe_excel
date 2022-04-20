@@ -40,12 +40,14 @@ https://parallelum.com.br/fipe/api/v2/{vehicleType}/{fipeCode}/years/{yearId}
 
 <h3>Caso de uso: Gerar excel com Fipe dos veículos.</h3>
 <h4>Visão geral</h4>
-O usuário gera a planilha excel. 
+O usuário acessa o sistema e seleciona em uma caixa de seleção o tipo de veículo que ele está buscando (caminhão, carro, moto), deve informar tambem o ano inicial da busca e o ano final da busca. Após o usuario clicar é gerado a planilha e o sistema começa a busca baseando nos parametros passado pelo usuário. Após isso o sistema devera emitir um alerta dizendo planilha criada com sucesso. O arquivo excel deve conter os seguintes campos (nome do veiculo, ano, modelo, tipo de combustível).
 
 <h3>Caso de uso: Consultar tabela fipe.</h3>
 <h4>Visão geral</h4>
-O usuário faz uma consulta, essa mesma gera os seguintes dados codigo das marcas e o nome das marcas. Os dados são escritos na planilha excel criada anteriomente.
+O sistema deve realizar uma busca através de uma API Web que traz dados oficiais da tabela FIPE. E gera os dados de acordo com o parametro que for selecionado pelo usuário. 
 
 <h3>Caso de uso: Enviar por email</h3>
 <h4>Visão geral</h4>
-Depois de pronta a planilha ela deverá ser enviada por email que o usuário escolher.
+O usuario deve acessa a opção de envio de e-mail. O mesmo insere o e-mail desejado e clica no botão para procuara a planilha logo apos clicar no botão enviar.
+O sistema devera emitir um alerta de planilha enviada com sucesso.
+Depois de pronta a planilha ela deverá ser enviada por email que o usuário escolher. 
