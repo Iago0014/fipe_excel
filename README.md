@@ -7,7 +7,7 @@ oline e os armazena em uma planilha excel. Utilizamos o sistema o tempo gasto ca
 
 
 
-#requisitos funcionais do sistema
+<h2>#requisitos funcionais do sistema</h2>
 
 RF - 001: O sistema deve permitir a busca de informação dos veiculos a partir de um codigo e ano de fabricação.
 
@@ -16,7 +16,7 @@ tipo de combustível, mês de referencia
 
 
 
-#requisitos não funcionais
+<h2>#requisitos não funcionais</h2>
 
 RFN - 001: O sistema deve salvar o arquivo em XLSX versão 2007 ou superior.
 
