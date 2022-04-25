@@ -52,7 +52,7 @@ O usuario deve acessa a opção de envio de e-mail. O mesmo insere o e-mail dese
 O sistema devera emitir um alerta de planilha enviada com sucesso.
 Depois de pronta a planilha ela deverá ser enviada por email que o usuário escolher. 
 
-<h3>Diagrama de classes</h3>
+<h2>Diagrama de classes</h2>
 
 ![Untitled](https://user-images.githubusercontent.com/100955133/165190711-b35ad160-84e3-4426-90ef-2d03f0297b21.png)
 
