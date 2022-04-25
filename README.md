@@ -51,3 +51,8 @@ O sistema deve realizar uma busca através de uma API Web que traz dados oficiai
 O usuario deve acessa a opção de envio de e-mail. O mesmo insere o e-mail desejado e clica no botão para procuara a planilha logo apos clicar no botão enviar.
 O sistema devera emitir um alerta de planilha enviada com sucesso.
 Depois de pronta a planilha ela deverá ser enviada por email que o usuário escolher. 
+
+<h3>Diagrama de classes</h3>
+
+![Untitled](https://user-images.githubusercontent.com/100955133/165190711-b35ad160-84e3-4426-90ef-2d03f0297b21.png)
+
