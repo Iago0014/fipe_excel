@@ -56,3 +56,9 @@ Depois de pronta a planilha ela deverá ser enviada por email que o usuário esc
 
 ![Untitled](https://user-images.githubusercontent.com/100955133/165190711-b35ad160-84e3-4426-90ef-2d03f0297b21.png)
 
+
+<h2>Diagrama de atividade</h2>
+![diagrama de atividade FIPE EXCEL](https://user-images.githubusercontent.com/100955133/166344460-ba2eb72b-9bf1-4377-a786-b1ba14768196.png)
+
+
+
