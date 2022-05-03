@@ -58,7 +58,8 @@ Depois de pronta a planilha ela deverá ser enviada por email que o usuário esc
 
 
 <h2>Diagrama de atividade</h2>
-![diagrama de atividade FIPE EXCEL](https://user-images.githubusercontent.com/100955133/166344460-ba2eb72b-9bf1-4377-a786-b1ba14768196.png)
+
+![diagrama de atividade FIPE EXCEL](https://user-images.githubusercontent.com/100955133/166344923-b6a4c8f2-4ea6-442f-88f3-3bccc7f096bb.png)
 
 
 
